@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368443753050",
+    "project_id": "flutter-sithum-45gb",
+    "storage_bucket": "flutter-sithum-45gb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368443753050:android:30cbb4745b5d52f468ce63",
+        "android_client_info": {
+          "package_name": "se.pixolity.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABr09BLVXYE6tCqOPkWPSRqOmn5IAovV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
